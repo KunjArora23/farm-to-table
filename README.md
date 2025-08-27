@@ -355,8 +355,8 @@ We welcome contributions! Please follow these steps:
 ## 👨‍💻 Author
 
 **Prakash Kumar Singh **
-- GitHub: [Prakash-S1ngh](https://github.com/KunjArora23)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/kunjarora23)
+- GitHub: [Kunj Arora](https://github.com/KunjArora23)
+- LinkedIn: [Kunj Arora](https://linkedin.com/in/kunjarora23)
 - Email: kunjarora.dev@gmail.com
 
 ## 🙏 Acknowledgments
